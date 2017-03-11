@@ -6,7 +6,7 @@ This document aims to provide detailed information about the usage of set of too
 
 * Latest version of GSHHG (A Global Self-consistent, Hierarchical, High-resolution Geography Database): It can be downloaded from [here](https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html) (in *.shp format)
 * NCAR Command Language ([NCL](http://www.ncl.ucar.edu))
-* **domain2vtk.ncl** and **domain2vtk.sh** scripts 
+* [domain2vtk.ncl](README_vtk_coastline/domain2vtk.ncl) and [domain2vtk.sh](README_vtk_coastline/domain2vtk.sh) scripts 
 
 ## Usage
 ### Parameters
