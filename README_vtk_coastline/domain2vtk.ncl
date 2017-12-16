@@ -159,7 +159,9 @@ begin
     do j = 0, k-1
       str = str+indx(j)+" "
     end do
-    print(k+" "+str)
+    if (k .ne. 1) then
+      print(k+" "+str)
+    end if
     delete(indx)
   end do
 end
